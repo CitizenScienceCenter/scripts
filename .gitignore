@@ -1,0 +1,9 @@
+.gitsecret/keys/random_seed
+!*.secret
+envs/v2.env
+envs/v3.env
+envs/v3-staging.env
+envs/wenker.env
+
+backups/dumps/
+*.csv
